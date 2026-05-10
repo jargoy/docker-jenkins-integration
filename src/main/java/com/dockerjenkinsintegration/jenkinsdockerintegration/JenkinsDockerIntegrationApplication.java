@@ -14,7 +14,7 @@ public class JenkinsDockerIntegrationApplication {
     @PostConstruct
     public void test()
     {
-        logger.info("Application is goint to start...");
+        logger.info("Application is going to start now .....");
     }
 
     public static void main(String[] args) {
